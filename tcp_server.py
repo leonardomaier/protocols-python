@@ -1,4 +1,3 @@
-from socket import socket
 import socketserver
 
 class TCPHandler(socketserver.BaseRequestHandler):
